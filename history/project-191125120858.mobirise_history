@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "demo",
-    "currentPage": "index.html",
+    "currentPage": "forms.html",
     "theme": {
       "name": "courseamp",
       "title": "CourseAMP",
@@ -49,13 +49,7 @@
     "сanonical-url": "",
     "canonical-url": "",
     "publishType": "mbrsite",
-    "": "on",
-    "cssOptimize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "fileWatcher": false,
-    "pwa-switcher": false
+    "mbrsite": "mbrsite://%7B%22id%22%3A47755%2C%22domain%22%3A%22wii4h4u8wa.mobirisesite.com%22%7D"
   },
   "pages": {
     "index.html": {
